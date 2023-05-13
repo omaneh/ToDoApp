@@ -1,2 +1,2 @@
-# ToDoApp
-To do list app using HTML, CSS, and Vue.JS
+# To Do App  📬
+Basic single page project where users can create and delete to do actions. 
